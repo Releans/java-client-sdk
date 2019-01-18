@@ -4,7 +4,7 @@ The Releans SDK enables developers to use Releans Services in their code. You ca
 
 ## How to Build
 
-The generated code uses a few Maven dependencies e.g., Jackson, UniRest,
+The Releans SDK uses a few Maven dependencies e.g., Jackson, UniRest,
 and Apache HttpClient. The reference to these dependencies is already
 added in the pom.xml file will be installed automatically. Therefore,
 you will need internet access for a successful build.
@@ -70,7 +70,7 @@ Here, you can add code to initialize the client library and instantiate a *Contr
 
 ## How to Test
 
-The generated code and the server can be tested using automatically generated test cases. 
+The Releans SDK and the server can be tested using automatically generated test cases. 
 JUnit is used as the testing framework and test runner.
 
 In Eclipse, for running the tests do the following:
